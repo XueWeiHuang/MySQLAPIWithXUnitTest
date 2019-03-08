@@ -1,0 +1,17 @@
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojAssemblyReference.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CoreCompileInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfoInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.deps.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.dev.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\MySQLWebserver.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\MySQLWebserver.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CopyComplete
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.pdb

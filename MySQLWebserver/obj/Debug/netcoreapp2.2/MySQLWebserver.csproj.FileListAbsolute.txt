@@ -1,0 +1,14 @@
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\bin\Debug\netcoreapp2.2\MySQLWebserver.deps.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\bin\Debug\netcoreapp2.2\MySQLWebserver.runtimeconfig.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\bin\Debug\netcoreapp2.2\MySQLWebserver.runtimeconfig.dev.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\bin\Debug\netcoreapp2.2\MySQLWebserver.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\bin\Debug\netcoreapp2.2\MySQLWebserver.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\obj\Debug\netcoreapp2.2\MySQLWebserver.csprojAssemblyReference.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\obj\Debug\netcoreapp2.2\MySQLWebserver.csproj.CoreCompileInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\obj\Debug\netcoreapp2.2\MySQLWebserver.RazorAssemblyInfo.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\obj\Debug\netcoreapp2.2\MySQLWebserver.RazorAssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\obj\Debug\netcoreapp2.2\MySQLWebserver.AssemblyInfoInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\obj\Debug\netcoreapp2.2\MySQLWebserver.AssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\obj\Debug\netcoreapp2.2\MySQLWebserver.RazorTargetAssemblyInfo.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\obj\Debug\netcoreapp2.2\MySQLWebserver.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\obj\Debug\netcoreapp2.2\MySQLWebserver.pdb
