@@ -1,0 +1,17 @@
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\UnitTestsWorld.deps.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\UnitTestsWorld.runtimeconfig.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\UnitTestsWorld.runtimeconfig.dev.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\UnitTestsWorld.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\obj\Debug\netcoreapp2.2\UnitTestsWorld.csprojAssemblyReference.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\obj\Debug\netcoreapp2.2\UnitTestsWorld.csproj.CoreCompileInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\obj\Debug\netcoreapp2.2\UnitTestsWorld.AssemblyInfoInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\obj\Debug\netcoreapp2.2\UnitTestsWorld.AssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\UnitTestsWorld.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\WorldWebServer.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\bin\Debug\netcoreapp2.2\WorldWebServer.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\obj\Debug\netcoreapp2.2\UnitTestsWorld.csproj.CopyComplete
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\obj\Debug\netcoreapp2.2\UnitTestsWorld.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\UnitTestsWorld\obj\Debug\netcoreapp2.2\UnitTestsWorld.pdb
