@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySQLWebserver", "MySQLWebserver.csproj", "{B00ED5FF-14C3-4A11-BE7D-C2B3ED46F3DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{7A24DEBC-FDD6-42FE-941E-3D609625FDE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{7A24DEBC-FDD6-42FE-941E-3D609625FDE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldWebServer", "WorldWebServer\WorldWebServer.csproj", "{8B1E7FC0-56F6-43E4-B8E5-701362134056}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7A24DEBC-FDD6-42FE-941E-3D609625FDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A24DEBC-FDD6-42FE-941E-3D609625FDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A24DEBC-FDD6-42FE-941E-3D609625FDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1E7FC0-56F6-43E4-B8E5-701362134056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1E7FC0-56F6-43E4-B8E5-701362134056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1E7FC0-56F6-43E4-B8E5-701362134056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1E7FC0-56F6-43E4-B8E5-701362134056}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

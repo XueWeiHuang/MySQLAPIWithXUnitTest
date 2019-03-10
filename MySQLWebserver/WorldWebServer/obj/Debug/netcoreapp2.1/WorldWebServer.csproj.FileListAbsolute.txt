@@ -1,0 +1,14 @@
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\bin\Debug\netcoreapp2.1\WorldWebServer.deps.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\bin\Debug\netcoreapp2.1\WorldWebServer.runtimeconfig.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\bin\Debug\netcoreapp2.1\WorldWebServer.runtimeconfig.dev.json
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\bin\Debug\netcoreapp2.1\WorldWebServer.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\obj\Debug\netcoreapp2.1\WorldWebServer.csprojAssemblyReference.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\obj\Debug\netcoreapp2.1\WorldWebServer.csproj.CoreCompileInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\obj\Debug\netcoreapp2.1\WorldWebServer.RazorAssemblyInfo.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\obj\Debug\netcoreapp2.1\WorldWebServer.RazorAssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\obj\Debug\netcoreapp2.1\WorldWebServer.AssemblyInfoInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\obj\Debug\netcoreapp2.1\WorldWebServer.AssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\obj\Debug\netcoreapp2.1\WorldWebServer.RazorTargetAssemblyInfo.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\bin\Debug\netcoreapp2.1\WorldWebServer.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\obj\Debug\netcoreapp2.1\WorldWebServer.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\MySQLAPI\MySQLWebserver\WorldWebServer\obj\Debug\netcoreapp2.1\WorldWebServer.pdb
